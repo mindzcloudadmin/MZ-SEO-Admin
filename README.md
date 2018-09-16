@@ -1,30 +1,47 @@
+# [Vue Paper Dashboard](https://cristijora.github.io/vue-paper-dashboard/)
 
+> Admin dashboard based on paper dashboard UI template + vue-router
 
-## :rocket: Getting started
+This project is a vue version of [Paper-dashboard](https://www.creative-tim.com/product/paper-dashboard)
+designed for vue js.The dashboard includes vue-router
 
-Vue Light Bootstrap Dashboard is built on top of Bootstrap 4, Vuejs and Vue-router. To get started do the following steps:
-1. Download the project
-2. Make sure you have node.js (https://nodejs.org/en/) installed
-3. Type `npm install` in the source folder where `package.json` is located
-4. Type `npm run dev` to start the development server
+Check the [Live Demo here](https://cristijora.github.io/vue-paper-dashboard).
 
-The repo uses [vue-cli](https://github.com/vuejs/vue-cli) scaffolding which takes care of the development setup with webpack and all the necessary modern tools to make web development faster and easier.
+[Nuxt Version (outdated Bootstrap 3)](https://github.com/cristijora/vue-paper-dashboard-nuxt)
+![](http://i.imgur.com/3iC1hOs.gif)
 
+## Documentation
+Link to [Documentation](http://vuejs.creative-tim.com/vue-paper-dashboard/documentation/)
 
-
-## :cloud: Build Setup
+## Build Setup
 
 ### install dependencies
-`npm install`
-### serve with hot reload at localhost:8000
-`npm run dev`
+```
+npm install
+```
+### serve with hot reload at localhost:8080
+```
+npm run dev
+```
 ### build for production with minification
-`npm run build`
-### run unit tests
-`npm run unit`
-### run and watch unit tests
-`npm run unit:watch`
-
-## :clipboard: Contribution guide
+```
+npm run build
+```
+### lint
+```
+npm run lint
+```
+## Contribution guide
+* Fork the repository
 * `npm install` or `yarn install`
-* Please don't use jQuery or jQuery based plugins since there are many pure Vue alternatives
+* Make changes
+* Open Pull Request
+
+For detailed explanation on how things work, checkout the [guide](https://github.com/vuejs/vue-cli/blob/dev/docs/README.md)
+- [CHANGELOG](./CHANGELOG.md)
+- [version-badge](https://img.shields.io/badge/version-2.0.0-blue.svg)
+- [license-badge](https://img.shields.io/badge/license-MIT-blue.svg)
+
+## License
+
+[MIT](https://github.com/cristijora/vue-paper-dashboard/blob/master/LICENSE.md)
