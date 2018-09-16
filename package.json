@@ -1,5 +1,5 @@
 {
-  "name": "vue-paper-dashboard",
+  "name": "MindzcloudAdmin",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -32,7 +32,7 @@
     "sass-loader": "^6.0.7"
   },
   "description": "A sample admin dashboard based on paper dashboard UI template",
-  "author": "cristian.jora <joracristi@gmail.com>",
+  "author": "vinay <vinaygupta771@@gmail.com>",
   "engines": {
     "node": ">= 8.1.4",
     "npm": ">= 5.0.0"

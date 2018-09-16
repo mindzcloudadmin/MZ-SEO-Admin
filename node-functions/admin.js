@@ -1,5 +1,5 @@
 var MongoClient = require('mongodb').MongoClient;
-var configVariables = require('../src/variables/config')
+var configVariables = require('../src/pages/variables/config')
 var uri = configVariables.DatabaseConfig.uri
 var db = configVariables.DatabaseConfig.db
 var ObjectId = require('mongodb').ObjectID;
